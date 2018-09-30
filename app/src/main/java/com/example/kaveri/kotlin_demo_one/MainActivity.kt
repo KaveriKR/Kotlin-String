@@ -49,9 +49,10 @@ class MainActivity : AppCompatActivity() {
         text_with_expression.text = "you lucky number is: $random"
         text_with_expression.setTextColor(Color.CYAN)
 
-
+        // exepression in a raw string
         val rw = """ The word $n  has ${n.length} characters"""
         text_with_expression1.text = rw
+        text_with_expression1.setTextColor(Color.CYAN)
 
         //If you need to represent a literal $ character in a raw string
         // (which doesn't support backslash escaping), you can use the following syntax:
@@ -61,6 +62,7 @@ class MainActivity : AppCompatActivity() {
         """.trimIndent()
 
         text_with_expression2.text = price
+        text_with_expression2.setTextColor(Color.CYAN)
 
         /** String Concatenation
          *  using [StringBuilder]
@@ -74,6 +76,7 @@ class MainActivity : AppCompatActivity() {
       //  title_string.text = hello+kotlin
        // title_string.text = "$hello $kotlin"
         title_string.text = hello.plus(kotlin)
+        title_string.setTextColor(Color.CYAN)
 
 
 
