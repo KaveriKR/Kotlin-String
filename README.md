@@ -1,4 +1,4 @@
-# Kotlin-String
+# Kotlin-String-Control Flow Statements
 
 This codelab shows the different use cases for a strings using kotlin.
 
