@@ -12,6 +12,6 @@ This codelab shows the different use cases for a strings using kotlin.
 
 For other types of control flow refer :-https://kotlinlang.org/docs/reference/control-flow.html
 
-What are we implementing:-
+What are we implementing?:-
 
 <img src="https://github.com/KaveriKR/Kotlin-String/blob/master/Screenshot_20180930-140603.png" alt="Screenshot" width="200" height="370">
