@@ -8,7 +8,7 @@ This codelab shows the different use cases for a strings using kotlin.
 
 3)Concatenating strings.
 
-4)Kotlin version of switch statement.
+4)Kotlin's version of switch statement.
 
 For other types of control flow refer :-https://kotlinlang.org/docs/reference/control-flow.html
 
